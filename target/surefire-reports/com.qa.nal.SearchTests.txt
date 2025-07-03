@@ -1,0 +1,21 @@
+-------------------------------------------------------------------------------
+Test set: com.qa.nal.SearchTests
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 95.282 s <<< FAILURE! - in com.qa.nal.SearchTests
+com.qa.nal.SearchTests.performAutomation  Time elapsed: 60.543 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: 
+Test Failed: Error {
+  message='Timeout 60000ms exceeded.
+  name='TimeoutError
+  stack='TimeoutError: Timeout 60000ms exceeded.
+    at ProgressController.run (C:\Users\user\AppData\Local\Temp\playwright-java-10549302936286851254\package\lib\server\progress.js:76:26)
+    at Frame.waitForSelector (C:\Users\user\AppData\Local\Temp\playwright-java-10549302936286851254\package\lib\server\frames.js:647:23)
+    at FrameDispatcher.waitForSelector (C:\Users\user\AppData\Local\Temp\playwright-java-10549302936286851254\package\lib\server\dispatchers\frameDispatcher.js:82:116)
+    at FrameDispatcher._handleCommand (C:\Users\user\AppData\Local\Temp\playwright-java-10549302936286851254\package\lib\server\dispatchers\dispatcher.js:94:40)
+    at DispatcherConnection.dispatch (C:\Users\user\AppData\Local\Temp\playwright-java-10549302936286851254\package\lib\server\dispatchers\dispatcher.js:307:39)
+}
+Call log:
+-   - waiting for locator("#container > div > div.q8WwEU > div > div > div > div > div > div > div > div > div > div._2nl6Ch.k2FAh4 > div > div > header > div._3ZqtNW > div._3NorZ0._3jeYYh > form > div > div > input") to be visible
+
+	at com.qa.nal.SearchTests.performAutomation(SearchTests.java:130)
+

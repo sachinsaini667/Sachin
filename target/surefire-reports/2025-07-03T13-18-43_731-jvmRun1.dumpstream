@@ -1,0 +1,144 @@
+# Created at 2025-07-03T13:18:44.480
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '13:18:'.
+
+# Created at 2025-07-03T13:18:44.481
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '44,393 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Could NOT find resource [logback-test.xml]'.
+
+# Created at 2025-07-03T13:18:44.481
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '13:18:'.
+
+# Created at 2025-07-03T13:18:44.482
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '44,393 |-INFO in ch.qos.logback.classic.LoggerContext[default] - Found resource [logback.xml] at [jar:file:'.
+
+# Created at 2025-07-03T13:18:44.486
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '/C:/Users/user/.m2/repository/io/qase/qase-java-commons/4.0.0/qase-java-commons-4.0.0.jar!/logback.xml]'.
+
+# Created at 2025-07-03T13:18:44.486
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '13:18:'.
+
+# Created at 2025-07-03T13:18:44.487
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '44,394 |-WARN in ch.qos.logback.classic.LoggerContext[default] - Resource [logback.xml] occurs multiple times on the classpath.'.
+
+# Created at 2025-07-03T13:18:44.487
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '13:18:'.
+
+# Created at 2025-07-03T13:18:44.487
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '44,394 |-WARN in ch.qos.logback.classic.LoggerContext[default] - Resource [logback.xml] occurs at [jar:file:'.
+
+# Created at 2025-07-03T13:18:44.489
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '/C:/Users/user/.m2/repository/io/qase/qase-java-commons/4.0.0/qase-java-commons-4.0.0.jar!/logback.xml]'.
+
+# Created at 2025-07-03T13:18:44.489
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '13:18:'.
+
+# Created at 2025-07-03T13:18:44.489
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '44,394 |-WARN in ch.qos.logback.classic.LoggerContext[default] - Resource [logback.xml] occurs at [jar:file:'.
+
+# Created at 2025-07-03T13:18:44.490
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '/C:/Users/user/.m2/repository/io/qase/qase-api/3.2.1/qase-api-3.2.1.jar!/logback.xml]'.
+
+# Created at 2025-07-03T13:18:44.490
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '13:18:'.
+
+# Created at 2025-07-03T13:18:44.490
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '44,403 |-INFO in ch.qos.logback.core.joran.spi.ConfigurationWatchList@19d37183 - URL [jar:file:'.
+
+# Created at 2025-07-03T13:18:44.491
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '/C:/Users/user/.m2/repository/io/qase/qase-java-commons/4.0.0/qase-java-commons-4.0.0.jar!/logback.xml] is not of type file'.
+
+# Created at 2025-07-03T13:18:44.491
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '13:18:'.
+
+# Created at 2025-07-03T13:18:44.491
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '44,441 |-INFO in ch.qos.logback.classic.joran.action.ConfigurationAction - debug attribute not set'.
+
+# Created at 2025-07-03T13:18:44.493
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '13:18:'.
+
+# Created at 2025-07-03T13:18:44.493
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '44,442 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - About to instantiate appender of type [ch.qos.logback.core.ConsoleAppender]'.
+
+# Created at 2025-07-03T13:18:44.493
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '13:18:'.
+
+# Created at 2025-07-03T13:18:44.493
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '44,447 |-INFO in ch.qos.logback.core.joran.action.AppenderAction - Naming appender as [STDOUT]'.
+
+# Created at 2025-07-03T13:18:44.494
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '13:18:'.
+
+# Created at 2025-07-03T13:18:44.494
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '44,453 |-INFO in ch.qos.logback.core.joran.action.NestedComplexPropertyIA - Assuming default type [ch.qos.logback.classic.encoder.PatternLayoutEncoder] for [encoder] property'.
+
+# Created at 2025-07-03T13:18:44.495
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '13:18:'.
+
+# Created at 2025-07-03T13:18:44.495
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '44,476 |-INFO in ch.qos.logback.classic.joran.action.RootLoggerAction - Setting level of ROOT logger to DEBUG'.
+
+# Created at 2025-07-03T13:18:44.495
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '13:18:'.
+
+# Created at 2025-07-03T13:18:44.496
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '44,476 |-INFO in ch.qos.logback.core.joran.action.AppenderRefAction - Attaching appender named [STDOUT] to Logger[ROOT]'.
+
+# Created at 2025-07-03T13:18:44.496
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '13:18:'.
+
+# Created at 2025-07-03T13:18:44.497
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '44,476 |-INFO in ch.qos.logback.classic.joran.action.ConfigurationAction - End of configuration.'.
+
+# Created at 2025-07-03T13:18:44.497
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '13:18:'.
+
+# Created at 2025-07-03T13:18:44.497
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '44,477 |-INFO in ch.qos.logback.classic.joran.JoranConfigurator@1a0dcaa - Registering current configuration as safe fallback point'.
+
+# Created at 2025-07-03T13:18:44.540
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '13:18:'.
+
+# Created at 2025-07-03T13:18:44.541
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '44.494 [main] INFO  i.q.commons.reporters.CoreReporter - Qase config: {"mode":'.
+
+# Created at 2025-07-03T13:18:44.541
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '"TESTOPS","fallback":"OFF","environment":'.
+
+# Created at 2025-07-03T13:18:44.542
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '"dev-demo","rootSuite":"","debug":'.
+
+# Created at 2025-07-03T13:18:44.542
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'true,"testops":{"project":'.
+
+# Created at 2025-07-03T13:18:44.542
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '"SEARCH","defect":false,"api":'.
+
+# Created at 2025-07-03T13:18:44.542
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '{"host":"qase.io","token":'.
+
+# Created at 2025-07-03T13:18:44.543
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '""},"run":{"title":'.
+
+# Created at 2025-07-03T13:18:44.543
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '"Automated run 2025-07-03T13:18:'.
+
+# Created at 2025-07-03T13:18:44.543
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '44.4844553","description":"","complete":'.
+
+# Created at 2025-07-03T13:18:44.544
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream 'true,"id":0},"plan":'.
+
+# Created at 2025-07-03T13:18:44.544
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '{"id":0},"batch":'.
+
+# Created at 2025-07-03T13:18:44.544
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '{"size":200}},"report":'.
+
+# Created at 2025-07-03T13:18:44.545
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '{"driver":"LOCAL","connection":'.
+
+# Created at 2025-07-03T13:18:44.545
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '{"local":{"format":'.
+
+# Created at 2025-07-03T13:18:44.546
+Corrupted STDOUT by directly writing to native stream in forked JVM 1. Stream '"JSON","path":"./build/qase-report"}}}}'.
+
